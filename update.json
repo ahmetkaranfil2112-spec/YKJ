@@ -1,0 +1,27 @@
+{
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
+  "minSupportedVersion": "1.0",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/ahmetkaranfil2112-spec/YKJ/releases/download/v1.1/app-release.apk",
+  "releaseNotes": [
+    "hayrılı uğurlu olsun"
+  ],
+  "forceUpdate": true,
+  "announcement": {
+    "enabled": true,
+    "title": "test",
+    "message": "test",
+    "type": "info",
+    "actionUrl": "",
+    "actionText": "",
+    "dismissible": true,
+    "showOnce": true,
+    "id": "announcement_v2"
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "estimatedEndTime": ""
+  }
+}
